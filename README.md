@@ -1,2 +1,6 @@
 # hello-world
-Just is a exercise
+
+class First_World{
+  public static void main(String[] args){
+    System.out.println("hello-world");
+}
