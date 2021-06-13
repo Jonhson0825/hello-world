@@ -1,5 +1,5 @@
 package com.atguigu;
 
 public class HelloGit {
-  prvate Integer a = 10;
+  private Integer a = 10;
 }
